@@ -1,6 +1,6 @@
-#Signature Lib - Developed with Javascript
+# Signature Lib - Developed with Javascript
 
-##Documentation
+## Documentation
 
 - First Step
 
